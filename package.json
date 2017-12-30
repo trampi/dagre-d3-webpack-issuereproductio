@@ -1,0 +1,19 @@
+{
+  "name": "dagre-d3-webpack2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^3.10.0"
+  },
+  "dependencies": {
+    "d3": "^4.12.2",
+    "dagre-d3": "^0.5.2"
+  }
+}
